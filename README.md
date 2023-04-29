@@ -4,10 +4,20 @@ OnlyDEV is a social network for developers that allows users to create a public 
 
 Functionality  
 
-* Users can sign up and sign in.  
-* Publicly available information includes a list of all registered developers and individual profiles for each developer.  
-* Privately available features include a personal dashboard for managing experiences and education, an edit profile view, and the ability to add or delete experiences and education. Users can also delete their account.  
-* Posts can be added, edited, and deleted, and users can like, dislike, comment, or discuss them.  
+*   Sign up and sign in
+    *   Publicly available:
+        *   List of all registered developers
+        *   Profiles of each developer
+    *   Privately available:
+        *   Personal dashboard (experiences and education)
+        *   Edit profile view
+        *   Adding experience view
+        *   Adding education view
+        *   Deleting an account
+        *   Posts
+            *   Possibility to add and delete post
+            *   Possibility to like and dislike post
+            *   Possibility to comment/discuss post
 
 Development  
 
