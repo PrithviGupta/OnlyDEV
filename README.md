@@ -2,7 +2,7 @@
 OnlyDEV is a social network for developers that allows users to create a public profile, manage their experiences and education, and create, edit, and delete posts. The platform also features the ability to like and dislike posts and comment or discuss with other users, as well as the option to delete an account.
 
 
-Functionality  
+## Functionality  
 
 *   Sign up and sign in
     *   Publicly available:
@@ -19,7 +19,7 @@ Functionality
             *   Possibility to like and dislike post
             *   Possibility to comment/discuss post
 
-Development  
+## Development  
 
 * Change the default.json file in the config folder.  
 * Run npm install to install server dependencies.  
